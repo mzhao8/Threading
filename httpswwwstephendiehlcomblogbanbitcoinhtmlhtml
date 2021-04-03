@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+    <!-- Basic Page Needs
+  ================================================== -->
+    <meta charset="utf-8">
+    <title>The Political Case for a Blanket Cryptocurrency Ban</title>
+    <meta name="description" content="Personal Blog">
+    <meta name="author" content="Stephen Diehl">
+
+    <!-- Mobile Specific Metas
+  ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- CSS
+  ================================================== -->
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/skeleton.css">
+    <link rel="stylesheet" href="../css/typography.css">
+    <link rel="stylesheet" href="../css/layout.css">
+    <link rel="stylesheet" href="../css/syntax.css">
+    <link rel="stylesheet" href="../css/custom.css">
+
+    <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,400italic|Inconsolata" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script type="text/x-mathjax-config">
+    </script>
+
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-49839533-1', 'stephendiehl.com');
+      ga('send', 'pageview');
+    </script>
+
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+    <link rel="alternate" title="Stephen Diehl" type="application/atom+xml" href="feed.atom">
+    <link rel="alternate" title="Stephen Diehl" type="application/rss+xml" href="feed.rss">
+</head>
+<body>
+
+    <div class="container">
+        <div class="three columns sidebar">
+            <nav>
+                <h3 id="logo">Stephen Diehl</h3>
+                <ul>
+                    <li><a href="../">Index</a></li>
+                    <li><a href="../blog.html">Blog</a></li>
+                    <li><a href="../posts.html">Tech Blog</a></li>
+                    <li><a href="../pages/writings.html">Writings</a></li>
+                    <li><a href="../pages/hire.html">Contact Me</a></li>
+                    <li><a href="../pages/pgp.html">PGP Key</a></li>
+                    <li><a href="https://github.com/sdiehl">Github</a></li>
+                    <li><a href="../feed.rss">RSS</a></li>
+                    <li><a href="https://twitter.com/smdiehl">Twitter</a></li>
+                </ul>
+            </nav>
+            &nbsp;
+        </div>
+
+        <div class="twelve columns offset-by-one content">
+            <h3 id="the-political-case-for-a-blanket-cryptocurrency-ban">The Political Case for a Blanket Cryptocurrency Ban</h3>
+<p>We live in a time in which gambling and speculative excess are at the heart of our society more so than perhaps any point in living history. This year has seen a level of unparalleled speculative mania across markets that defy intuition and challenge many of our assumptions. Coming out of the last four years, and an administration that literally defined itself in terms of corruption and graft, it’s not all that surprising that we see that mindset overflow into our daily lives. However the times they are a charging and there are some profound questions about the role of technology in the public sphere our leaders will face in the time of The Great Reset.</p>
+<p>Bitcoin is the textbook speculative mania for our time. Contrary to its namesake, it is not a currency, it’s a pseudo-asset built around the dubious notion of “speculation for speculation’s sake”. The cryptocurrency market abandons the pretense of trading for price discovery or capital formation and instead entices masses of dumb money investors to pour their savings into what is effectively a unregulated speculative momentum investment untethered to any real economic activity. Cryptocurrency is a greater fools game of shuffling numbers around with cryptography under the delusion that this alchemy of entropy can generate progress and wealth—while in fact it does neither.</p>
+<p>If this entire scheme was simply a small group of wealthy individuals playing silly financial games with each other, it would not rise to the level of public policy concern, after all Wall Street trades crazier things everyday before lunch. But the retail enticement of this asset class must become an object of political scrutiny when it becomes predatory investment fraught with systemic risk and when the full global externalities of its existence are considered.</p>
+<p>The largest elephant in the room is the environmental damage done by bitcoin mining. As every major news outlet worldwide has covered, bitcoin is <a href="https://www.bloomberg.com/opinion/articles/2021-01-26/is-bitcoin-mining-worth-the-environmental-cost">an incredibly dirty business</a> that incentivizes and rewards increasing energy waste as part of the design of the technology. While many technologies consume energy, there is no other technology whose core concept is designed around ever-increasing energy waste. The carbon footprint is simultaneously both a failure of the technology and a <a href="https://www.stephendiehl.com/blog/chernobyl.html">moral disaster</a> for those that continue to promote it despite its clearly realized ecological consequences. On top of this, in the last year we’ve seen a tobacco-industry level of lobbying and disinformation campaign to try greenwash the carbon footprint of this destructive industry against the interests of the public.</p>
+<p>Global climate change won’t be slowed or stopped by a single silver bullet. It will take an aggregate reduction across many industries, many of which are already underway under existing laws and treaties. Crypto is simply the largest and easiest carbon emissions nail sticking out begging for the hammer. It is burning the equivalent of a top 30 nation state all for the sake of insane wealth redistribution to a tiny group of colluding insiders. This is not something humanity can afford anymore and cannot be reconciled with a world of increasing income inequality where our children bear the outsized costs of our climate choices.</p>
+<p>The second concern is that of the predatory nature of cryptocurrency investments. Despite conflicting stories pushed by its advocates, cryptocurrency is treated as a speculative investment by the overwhelming majority of participants. Put simply everyone is expecting a return on their investment based on appreciation in value, and for most people it does not present as a investment based on fundamental value but simply as a new financial betting game. As many economists have pointed out, an investment scheme of this form cannot have the property that many investors believe it does. Investing in cryptocurrencies is a negative-sum game, that from a macro perspective simply redistributes wealth from later investors to early investors and the expected return of an average investor is negative, most people are guaranteed to lose money.</p>
+<p>The predatory nature of cryptocurrency investment schemes is structurally not that dissimilar from the predatory lending bubble we saw preceding the financial crisis. The United States is a deeply economically unequal society and the proliferation of get-rich-quick schemes taps into a deep weakness in the American mindset. An important whitepaper by Georgios A. Panos &amp; Tatja Karkkainen analyzes the risk perception of cryptocurrencies based on demographics and comes to the conclusion that “a large part of the cryptocurrency market comprises unsophisticated investors with lower financial literacy skills. These investors are likely to overestimate the reward prospects in cryptocurrencies and underestimate the risk involved in related investment.”<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></p>
+<p>Cryptocurrencies disproportionately victimize vulnerable people and those in marginalized communities without access to traditional investments or financial advisory. The overwhelming risk is to naive investors who have been induced to put their savings into volatile cryptocurrency assets by spurious promises of fantastic price increases without the education to assess these claims. The darker perspective is that cryptocurrency may be taking a demographic who would otherwise have had gambling problems and legitimates their addiction by wrapping it up in a veneer of technical legitimacy. Cryptocurrency is not a vehicle for financial inclusion, it is a vehicle for capital destruction and extracting money from the desperate and clueless.</p>
+<p>The thesis this administration campaigned on is the obvious truth that the working class needs to be able generate wealth by being given access to opportunity and investment in productive American companies, not in shady offshore crypto schemes that extract wealth from the public. Having a long-term and forward-looking stake in our economy is how generational wealth and prosperity is created, not through speculative gambling.</p>
+<p>Across the private sector we see vast economic distortions on the set of new companies that can even be built. Our private sector is dumping billions into marketplaces for the nouveau riche to buy flash-in-the-pan GIFs as ephemeral Veblen goods, and for a whole generation of entrepreneurs to build thinly-veiled Ponzi schemes whose entire business is model revolves around investors taking a rake on gambling action while hiding behind the veneer of “innovation”. What did Silicon Valley’s ICO bubble create? Absolutely nothing. There is <a href="https://www.ft.com/content/e846c8f6-6ff0-4e2f-a95f-f32043558315">not a single profitable company</a> that came out of the excess of $20 billion poured in. Startups have a high failure rate, but a 100% failure rate is unheard of. In America we ran the crypto experiment. And it failed miserably.</p>
+<p>All this while our closest allies in Japan, Taiwan, Brazil, and United Kingdom have payment and infrastructure that is decades ahead of America. The fintech revolution happened, it just happened abroad while Americans were hypnotised by libertarian fantasies of selling magic beans to each other. This US obsession with failed promises of the blockchain panacea has had an enormous opportunity cost for the economy and a perverse influence on new venture formation and on renovating domestic infrastructure. The US needs drastic public and private investment in real time gross settlement systems, such as FedNow, and the move towards real time digital payments systems. The fact that the US populace still transacts with paper checks makes us the laughing stock of much of the rest of the world. We can build 5nm semiconductor fabrication processes but can’t build the same dumb FTP-based clearing systems the rest of the world already has. Calcification of existing infrastructure and aging banking infrastructure is form a societal debt that we must repay in order to compete in the 21st century.</p>
+<p>Just as the 19th century saw the rise of nation-state sponsored privateering on the high seas, so to are we seeing the rise of a cyber privateering attacks across the public and private sector all across NATO. Cryptocurrency is, by design, the single greatest enabling factor in the rise of exponential explosion in ransomware extortion attacks. A network which is designed to evade sanctions and capital controls will be primarily be used for crime, and the ability to send value beyond the reach of law enforcement, and sight-unseen to anonymous hackers is a game changer for the criminal element. This kind of attack is rapidly becoming a menace to local governments and companies and unless something is done to discourage these attacks then the States is fighting an asymmetric cyber war it cannot win. We’re not just waiting for our cyber Pearl Harbour event, with cryptocurrency we’re enticing it.</p>
+<p>In social media era, everyday our adversaries are running very effective military-inspired psyops campaigns to sow division and polarization within the body politic. As many other journalists have pointed out, the information system that drives the election at the heart of our democracies has become decentralized and disentangled from the institutions of the past. Notions of journalistic integrity and funding disclosure are no longer the norm for today’s new media and we’ve yet to grapple with the implications of this for campaign financing. Many people predict we are <a href="https://www.reuters.com/article/us-usa-election-cryptocurrency-idUSKBN29J2PM">already seeing</a> or will soon see the effects of so-called Dark Political Action Committees, political campaign pools that take contributions indiscriminately (in cryptocurrency) and distribute funds to influence and shape advertisements and outreach all with no oversight or controls. The mechanisms by which foreign actors can use cryptocurrency to manipulate public financing of elections is completely uncharted territory, it is however clear that most individuals holding cryptoasset are unlikely to fund Democrat seats.</p>
+<p>All of this finds our fragile democracy in a geopolitcal landscape which increasingly has two poles. For the past few decades China has made both substantial economic and technical progress and is rapidly expanding their sphere of influence into global financial markets. China is uniquely positioned as the sole global technological power than can seriously challenge the existing stable and open international system.</p>
+<p>Michael Greenwald’s article <a href="https://www.belfercenter.org/publication/does-digital-dollar-move-geoeconomic-needle-china">is a prescient warning</a> about the near future of Chinese financial technology ambitions. The digital Yuan is coming and it’s not running on Western make-believe blockchain hot air. The Chinese are ruthlessly engineering away building technology that efficiently binding their civilization together in innovative and overtly centralized ways. They’re not deluding themselves with Silicon Valley’s techno-libertarian fantasies, and that’s why they’re winning this fight. It’s not wise to bet against centralized solutions.</p>
+<p>With a blanket ban on cryptocurrency, the economic engine of the American system would do what it does best, a new wave of investment from the private sector would be redirected back into productive enterprises and new ventures that could strengthen US markets and the Dollar instead of undermining it. This would would serve as a catalyst for whole new class of ventures that could serve to pull up the middle class through new job creation, access to financial markets, banking, and civic services. Many people see a future of universal basic income in the near future, and these kind of experiments will require a level of domestic infrastructure we have yet to build, and now is the time to build the foundations for these ideas.</p>
+<p>The narrative that cryptocurrency is “beyond the reach of government” or “a genie out of the bottle” is simply a libertarian anti-state fantasy. Exchanges are centralized commercial entities that are entirely contingent on the grace of the US-led financial order for their continued existence by access to banking. The States has the deepest capital markets in the world and the moral leadership of this administration would be quickly followed by Europe and would only strengthen the existing liberal democratic order and the US-led financial order. A ban on cryptocurrency would halt the incentive for ransomware privateering threatening our companies and improve the cybersecurity of our allies.</p>
+<p>Since the entire premise of cryptocurrency is as a speculative investment to redeem for Dollars or Euros, this would vastly stymie the value proposition to the point where the digital assets would be nearly valueless. All exchanges could be brought to heel of the federal government quite simply. The most expedient actions would be fourfold:</p>
+<ol style="list-style-type: decimal">
+<li>Halt all wire transfers of dollars in and out of cryptocurrency exchanges.</li>
+<li>Halt foreign entities trading in dollar cash-equivalent crypto assets.</li>
+<li>Add Chinese and other foreign cryptocurrency exchanges hiding in tax-havens to sanctioned entities lists.</li>
+<li>Regulate the sale of any existing cryptocurrency assets to US persons by classifying them as securities investment contracts moving forward.</li>
+</ol>
+<p>A federal ban on cryptocurrency is an easy win for this administration that can be accomplished entirely through existing precedent and executive orders. It fits perfectly into this administration’s platform on environmental justice, campaign financial reform, investment in infrastructure and strengthening American’s leadership abroad. Cryptocurrency is nothing but a extremely wasteful and inefficient predatory investment scheme whose only purpose for being is <a href="https://www.justice.gov/usao-sdny/pr/founders-and-executives-shore-cryptocurrency-derivatives-exchange-charged-violation">illicit financing</a> and <a href="https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and">sanctions evasion</a>. The political and moral case is clear, the best time to ban bitcoin was years ago the second best time is now.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Panos, Georgios A. and Karkkainen, Tatja and Atkinson, Adele, Financial Literacy and Attitudes to Cryptocurrencies (November 11, 2020). Working Papers in Responsible Banking &amp; Finance WP Nº 20-002, Available at SSRN: <a href="https://ssrn.com/abstract=3482083" class="uri">https://ssrn.com/abstract=3482083</a><a href="#fnref1">↩</a></p></li>
+</ol>
+</div>
+        </div>
+    </div>
+
+    <!-- JS
+    ================================================== -->
+    <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+<!-- End Document
+================================================== -->
+</body>

@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v16.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Taking on Google - In the Good</title>
+	<meta name="description" content="Marko Saric on how Plausible Analytics is taking a stand against Google and making an impact." />
+	<link rel="canonical" href="https://inthegood.co/taking-on-google/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Taking on Google - In the Good" />
+	<meta property="og:description" content="Marko Saric on how Plausible Analytics is taking a stand against Google and making an impact." />
+	<meta property="og:url" content="https://inthegood.co/taking-on-google/" />
+	<meta property="og:site_name" content="In the Good" />
+	<meta property="article:published_time" content="2021-03-30T17:56:33+00:00" />
+	<meta property="article:modified_time" content="2021-03-30T21:51:28+00:00" />
+	<meta property="og:image" content="https://inthegood.co/wp-content/uploads/2021/03/interview-template.png" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="798" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@inthegoodco" />
+	<meta name="twitter:site" content="@inthegoodco" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="In the Good">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="8 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://inthegood.co/#website","url":"https://inthegood.co/","name":"In the Good","description":"","potentialAction":[{"@type":"SearchAction","target":"https://inthegood.co/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://inthegood.co/taking-on-google/#primaryimage","inLanguage":"en-US","url":"https://inthegood.co/wp-content/uploads/2021/03/markosaric-e1617081671514.png","width":500,"height":500,"caption":"Marko Saric"},{"@type":"WebPage","@id":"https://inthegood.co/taking-on-google/#webpage","url":"https://inthegood.co/taking-on-google/","name":"Taking on Google - In the Good","isPartOf":{"@id":"https://inthegood.co/#website"},"primaryImageOfPage":{"@id":"https://inthegood.co/taking-on-google/#primaryimage"},"datePublished":"2021-03-30T17:56:33+00:00","dateModified":"2021-03-30T21:51:28+00:00","author":{"@id":"https://inthegood.co/#/schema/person/0310c015703b59855edd683da4c60769"},"description":"Marko Saric on how Plausible Analytics is taking a stand against Google and making an impact.","breadcrumb":{"@id":"https://inthegood.co/taking-on-google/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://inthegood.co/taking-on-google/"]}]},{"@type":"BreadcrumbList","@id":"https://inthegood.co/taking-on-google/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://inthegood.co/","url":"https://inthegood.co/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://inthegood.co/taking-on-google/","url":"https://inthegood.co/taking-on-google/","name":"Taking on Google"}}]},{"@type":"Person","@id":"https://inthegood.co/#/schema/person/0310c015703b59855edd683da4c60769","name":"In the Good","image":{"@type":"ImageObject","@id":"https://inthegood.co/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/cd304f2838df8668c004a1a11b8d5ea9?s=96&d=mm&r=g","caption":"In the Good"},"sameAs":["https://www.inthegood.co"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="In the Good  &raquo; Feed" href="https://inthegood.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="In the Good  &raquo; Comments Feed" href="https://inthegood.co/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="In the Good  &raquo; Taking on Google Comments Feed" href="https://inthegood.co/taking-on-google/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v7.16.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-121650938-2"  type="text/javascript" data-cfasync="false"></script>
+			<script type="text/javascript" data-cfasync="false">
+				var mi_version = '7.16.2';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-121650938-2';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( mi_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-121650938-2', {
+						forceSSL:true,link_attribution:true,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( 'undefined' !== typeof (
+											arguments[1].hitType
+										) ) {
+											hitObject = arguments[1];
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var gaKey, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+									};
+									for ( gaKey in gaMap ) {
+										if ( 'undefined' !== typeof args[gaKey] ) {
+											hit[gaMap[gaKey]] = args[gaKey];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inthegood.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='generate-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic|Source+Sans+Pro:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,900,900italic' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://inthegood.co/wp-includes/css/dist/block-library/style.min.css?ver=5.7' media='all' />
+<link rel='stylesheet' id='monsterinsights-popular-posts-style-css'  href='https://inthegood.co/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css?ver=7.16.2' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='https://inthegood.co/wp-content/themes/generatepress/assets/css/all.min.css?ver=3.0.3' media='all' />
+<style id='generate-style-inline-css'>
+body{background-color:#ffffff;color:#3a3a3a;}a{color:#2fb9f8;}a:visited{color:#00a9f7;}a:hover, a:focus, a:active{color:#00a9f7;}body .grid-container{max-width:1100px;}.wp-block-group__inner-container{max-width:1100px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:170px;}body, button, input, select, textarea{font-family:"Open Sans", sans-serif;font-size:18px;}body{line-height:1.5;}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:1.5em;}.main-navigation .main-nav ul ul li a{font-size:14px;}.sidebar .widget, .footer-widgets .widget{font-size:17px;}h1{font-family:"Source Sans Pro", sans-serif;font-size:60px;}h2{font-family:"Source Sans Pro", sans-serif;font-weight:bold;font-size:42px;}h3{font-family:"Source Sans Pro", sans-serif;font-size:28px;}h4{font-size:12px;}h5{font-size:inherit;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a{color:#3a3a3a;}.main-title a,.main-title a:hover{color:#222222;}.site-description{color:#757575;}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul li a,.menu-toggle, .main-navigation .menu-bar-items{color:#000000;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#2fb9f8;background-color:#ffffff;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#000000;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#2fb9f8;background-color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#2fb9f8;background-color:#ffffff;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#2fb9f8;background-color:#ffffff;}.main-navigation ul ul{background-color:#f6f9fc;}.main-navigation .main-nav ul ul li a{color:#000000;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#2fb9f8;background-color:#f6f9fc;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#2fb9f8;background-color:#f6f9fc;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#2fb9f8;background-color:#f6f9fc;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#3a3a3a;background-color:#ffffff;}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:#2fb9f8;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#0cacf7;}.entry-header h1,.page-header h1{color:#3a3a3a;}.entry-title a{color:#3a3a3a;}.entry-title a:hover{color:#3a3a3a;}.entry-meta{color:#595959;}.entry-meta a{color:#595959;}.entry-meta a:hover{color:#1e73be;}h1{color:#3a3a3a;}h2{color:#3a3a3a;}h3{color:#3a3a3a;}h4{color:#828282;}h5{color:#3a3a3a;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{color:#000000;background-color:#ffffff;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#0c0c0c;background-color:#ffffff;}.site-info a{color:#ffffff;}.site-info a:hover{color:#606060;}.footer-bar .widget_nav_menu .current-menu-item a{color:#606060;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#2fb9f8;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#09acf7;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}@media (max-width:768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#000000;}}.inside-top-bar{padding:10px;}.inside-header{padding:40px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}.site-info{padding:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header, .wp-block-group__inner-container{padding:30px;}.site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}}.one-container .sidebar .widget{padding:0px;}/* End cached CSS */@media (max-width:768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}
+#content {max-width: 1100px;margin-left: auto;margin-right: auto;}
+h2.entry-title{font-weight:normal;}
+</style>
+<link rel='stylesheet' id='generate-font-icons-css'  href='https://inthegood.co/wp-content/themes/generatepress/assets/css/components/font-icons.min.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.1.4' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.1.4' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.1.4' media='all' />
+<link rel='stylesheet' id='elementor-post-24-css'  href='https://inthegood.co/wp-content/uploads/elementor/css/post-24.css?ver=1617024495' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://inthegood.co/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.1' media='all' />
+<link rel='stylesheet' id='elementor-post-514-css'  href='https://inthegood.co/wp-content/uploads/elementor/css/post-514.css?ver=1617141089' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.7' media='all' />
+<script id='monsterinsights-frontend-script-js-extra'>
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/inthegood.co","hash_tracking":"false","ua":"UA-121650938-2"};
+</script>
+<script src='https://inthegood.co/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=7.16.2' id='monsterinsights-frontend-script-js'></script>
+<link rel="https://api.w.org/" href="https://inthegood.co/wp-json/" /><link rel="alternate" type="application/json" href="https://inthegood.co/wp-json/wp/v2/posts/514" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://inthegood.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://inthegood.co/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7" />
+<link rel='shortlink' href='https://inthegood.co/?p=514' />
+<link rel="alternate" type="application/json+oembed" href="https://inthegood.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finthegood.co%2Ftaking-on-google%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://inthegood.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finthegood.co%2Ftaking-on-google%2F&#038;format=xml" />
+<link rel="pingback" href="https://inthegood.co/xmlrpc.php">
+<meta name="viewport" content="width=device-width, initial-scale=1"><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body class="post-template post-template-elementor_header_footer single single-post postid-514 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar nav-float-right separate-containers contained-header active-footer-widgets-1 header-aligned-left dropdown-hover featured-image-active elementor-default elementor-template-full-width elementor-kit-24 elementor-page elementor-page-514 full-width-content" itemtype="https://schema.org/Blog" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<header id="masthead" class="site-header grid-container grid-parent" itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container grid-parent">
+				<div class="site-logo">
+					<a href="https://inthegood.co/" title="In the Good " rel="home">
+						<img  class="header-image is-logo-image" alt="In the Good " src="https://inthegood.co/wp-content/uploads/2020/08/logoblue2-1.png" title="In the Good " />
+					</a>
+				</div>		<nav id="site-navigation" class="main-navigation sub-menu-right" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container grid-parent">
+								<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="mobile-menu">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-main" class=" menu sf-menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://inthegood.co/about/">About</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://inthegood.co/contact/">Contact</a></li>
+<li id="menu-item-590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-590"><a href="https://inthegood.co/interviews/">Interviews</a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://inthegood.co/in-the-good-archive/">Newsletter archive</a></li>
+</ul></div>			</div>
+		</nav>
+					</div>
+		</header>
+		
+	<div id="page" class="site grid-container container hfeed grid-parent">
+				<div id="content" class="site-content">
+					<div data-elementor-type="wp-post" data-elementor-id="514" class="elementor elementor-514" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-6f74c8af elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6f74c8af" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7639af4d" data-id="7639af4d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-50fe1b76 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="50fe1b76" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-21828b8d" data-id="21828b8d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4757602b elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="4757602b" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="300" src="https://inthegood.co/wp-content/uploads/2021/03/markosaric-300x300.png" class="attachment-medium size-medium" alt="Marko Saric" loading="lazy" srcset="https://inthegood.co/wp-content/uploads/2021/03/markosaric-300x300.png 300w, https://inthegood.co/wp-content/uploads/2021/03/markosaric-150x150.png 150w, https://inthegood.co/wp-content/uploads/2021/03/markosaric-768x768.png 768w, https://inthegood.co/wp-content/uploads/2021/03/markosaric-e1617081671514.png 500w" sizes="(max-width: 300px) 100vw, 300px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-4ff54e0b" data-id="4ff54e0b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-61bc1454 elementor-widget elementor-widget-heading" data-id="61bc1454" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default"><span>Interview</span></h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bf28827 elementor-widget elementor-widget-heading" data-id="bf28827" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">Taking on Google</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-20ac839f elementor-widget elementor-widget-text-editor" data-id="20ac839f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-weight: 400;">Marko Saric on how Plausible Analytics is taking a stand against Google and making an impact.</span></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7f22e829 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f22e829" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5394cd53" data-id="5394cd53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c1d4048 elementor-widget elementor-widget-text-editor" data-id="5c1d4048" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a href="https://plausible.io/" target="_blank" style="background-color: rgb(255, 255, 255);">Plausible Analytics</a>&nbsp;is a lightweight and open-source website analytics tool.</p></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5e0b95d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e0b95d5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-54d0eb74" data-id="54d0eb74" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-27def455 elementor-widget elementor-widget-heading" data-id="27def455" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Co-founders</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-717c8beb elementor-widget elementor-widget-text-editor" data-id="717c8beb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Uku Taht and Marko Saric</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-201c0f69" data-id="201c0f69" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8f7ed58 elementor-widget elementor-widget-heading" data-id="8f7ed58" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">year founded</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3321c8b2 elementor-widget elementor-widget-text-editor" data-id="3321c8b2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>2018</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-507464ca" data-id="507464ca" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2d3f9e86 elementor-widget elementor-widget-heading" data-id="2d3f9e86" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">location</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-79613983 elementor-widget elementor-widget-text-editor" data-id="79613983" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Remote, but based in the EU</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4677455c" data-id="4677455c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-70607fc4 elementor-widget elementor-widget-heading" data-id="70607fc4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">revenue</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c3dfbba elementor-widget elementor-widget-text-editor" data-id="3c3dfbba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>$15,000 US MRR</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-8a6bf27 elementor-widget elementor-widget-spacer" data-id="8a6bf27" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-17a5ef71 elementor-widget elementor-widget-text-editor" data-id="17a5ef71" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a href="https://twitter.com/markosaric">Marko Saric</a> is a different breed of marketer than most. He spent ten years in marketing for venture-funded and large companies before he joined Plausible as co-founder in 2020—and then promptly abandoned conventional marketing tactics. Paid advertising? Nope. Annoying website popups? Not a chance. Facebook spy pixels? Get out of here!</p><p>It seems to be working. The company has grown from $400 monthly recurring revenue (MRR) to $15,000 MRR in the past year, an incredible rate of growth for this two-person team.</p><p>Co-founders Uku and Marko started with one key idea—a privacy-focused web analytics tool—and their impact and business have grown from there. By focusing on privacy, they were able to build a lightweight tool that ends up being better for the environment. By taking a stand against Google, they also chose to market their business in a way that fits their ethics and values.</p><p>This focus on privacy and ethics has helped them create a strong business and now as their income grows, so does their impact—they recently announced they’ll be giving 5% of annual revenue to charitable causes they believe in.</p><p>Let’s dive into the interview with Marko to learn more about how Plausible is taking on Google and making an impact:</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5ab5ea04 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5ab5ea04" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-11fb6173 elementor-widget elementor-widget-text-editor" data-id="11fb6173" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>On big ideas</h2><p>We started Plausible as a response to surveillance capitalism, the recent data privacy scandals, and new privacy regulations such as the GDPR.</p><p>Like many other people, we don’t like what&#8217;s happening on the web today, with Google and Facebook pretty much controlling everything. Plausible is our way of creating a web analytics tool that’s modern and compliant to this new world that we&#8217;re living in where privacy is so important, and that could be part of a more independent, sustainable, and healthier web in the long run.</p><p>We’ve always had some kind of a bigger idea behind Plausible. It’s never been about making as much money as we can. In our small way we’re trying to create a better web and that shows up in different ways, such as us being more privacy focused or us being more lightweight and environmentally focused and so on.</p><p>We are very firm and clear about what we believe in. Just by looking at our homepage, you can see we take a very strong stand against Google and we&#8217;re very upfront and honest about that.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4e268208 elementor-blockquote--skin-border elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="4e268208" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				"We’ve always had some kind of a bigger idea behind Plausible. It’s never been about making as much money as we can."			</p>
+					</blockquote>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ce18f2 elementor-widget elementor-widget-text-editor" data-id="4ce18f2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>On making an impact</h2><p>With Plausible everything starts from privacy and so our core impact comes from building an ethical and privacy-focused tool.</p><p>About 80% of websites use Google Analytics, which gives you the insights you need, but it&#8217;s also connected to Google&#8217;s business model of advertising and collecting as much personal data as possible in order to sell those insights. We are completely disconnected from that, with no connection to Google or advertising or surveillance capitalism. We’ve built something that&#8217;s completely opposite from a privacy perspective.</p><p>In terms of the environment, our servers are 100% powered by renewable energy and because we don&#8217;t collect personal data and track people across the web, we can create a very lightweight product. To use Plausible, site owners insert a small 1 KB file on their website, which is 45 times smaller than Google’s tool. Plausible helps you reduce your page size and reduce your electricity usage.</p><p>For a website that has 10,000 visitors per month, in one year you could save about 4.5 kilograms of CO2 emissions just by replacing Google analytics with Plausible. Considering that right now, we are installed on more than 10,000 websites and we&#8217;re tracking hundreds of millions of visitors per month, you can see that this small one kilobyte number and 4.5 kilograms in terms of CO2 emissions savings adds up to a lot over a whole year.</p><p>Even two guys like us, a small team, by having 10,000 different websites that trust us to use our product instead of Google Analytics, it adds up to quite a significant difference.</p><p>We recently got to $15,000 MRR, which means we can pay our rent and bills from the revenue we make through Plausible. Because we&#8217;re not here to maximize our profits, we’ve decided to <a href="https://plausible.io/giving-back">give 5% of our revenue back to causes we believe in</a>. We don&#8217;t have shareholders or investors that we need to maximize income for and we ourselves are happy that we can pay our own bills, so now if we can do a bit for some of these other causes, then that&#8217;s even better.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-789c5b61 elementor-blockquote--skin-border elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="789c5b61" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				"Because we're not here to maximize our profits, we’ve decided to give 5% of our revenue back to causes we believe in."			</p>
+					</blockquote>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e99cd04 elementor-widget elementor-widget-text-editor" data-id="6e99cd04" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>On ethical marketing</h2><p>Our philosophy and the beliefs we have about Google and privacy all show in our marketing. We try to be as ethical as we can, wherever we can. We’ve spent zero dollars on advertising and we’ve achieved what we have so far without funding Google or Facebook, which is the typical step you take as a marketer.</p><p>Spending money on Facebook or Google advertising would be an easy way to go, but it would be inauthentic and would not fit with what we’re trying to achieve. We can’t say we&#8217;re against all of the privacy violations from Facebook and Google and then start paying them to promote us. That’s not something we believe in.</p><p>From the start, <a href="https://plausible.io/blog/best-marketing-practices">we&#8217;ve said no to all of these unethical practices</a>. It’s what we believe is the right thing to do.</p><p>I don’t think it has hurt us in any way. I think it’s possible to grow a business by being ethical. By saying planet first or privacy first, or whatever the cause is, you&#8217;re doing it differently than the traditional ways, but that doesn’t mean that it will affect you negatively.</p><p>Even though we said no to those traditional marketing tactics, I don&#8217;t feel we could have done it any better. And it is such a better way for us to go—business wise, but also from the perspective of what makes us feel better about waking up and doing the work we&#8217;re doing.</p><p>Feedback from customers on our ethics and our impact has been great, but I don&#8217;t think it&#8217;s the main reason people use Plausible. They use it because, for example, we don&#8217;t use cookies so they don’t need those cookie banners, or they want easy-to-understand metrics. But the other parts, the more ethical parts, complete the whole package and make us stronger overall.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6552fb66 elementor-blockquote--skin-border elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="6552fb66" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				"From the start, we've said no to unethical practices. It’s what we believe is the right thing to do."			</p>
+					</blockquote>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3f921978 elementor-widget elementor-widget-text-editor" data-id="3f921978" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>On challenges that might actually be benefits</h2><p>You can say that to do business ethically, at least to do marketing ethically, is a challenge on its own. We aren’t buying ads so we need to actually go out there and do something to deserve the attention of people. That kind of marketing, such as writing blog posts, takes longer to do and the results may take a longer time to see.</p><p>It’s just a different way to do marketing, which brings different challenges compared to ads where you need to have a lot of money. And then you&#8217;re reliant on them rather than growing organically. Organic search is now our top source of traffic. I could stop writing blog posts and that traffic will continue coming. But with ads, if you stop paying for them, then the traffic stops as well.</p><p>So I would say early on, maybe it&#8217;s more of a challenge because it takes more effort, takes more time. But in the long run, I think the challenges we&#8217;re taking on because we&#8217;re doing ethical marketing will actually help us and make us stronger than if we just turned on paid ads.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6cbc8b99 elementor-blockquote--skin-border elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="6cbc8b99" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				"In the long run, I think the challenges we're taking on because we're doing ethical marketing will actually help us and make us stronger "			</p>
+					</blockquote>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9109d1b elementor-widget elementor-widget-text-editor" data-id="9109d1b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>On the future</h2><p>Our growth so far has been a dream come true but as a two-person startup we take it one step at a time.</p><p>We&#8217;re building a better product in order to become an even better competitor to Google Analytics, which means that even more websites and business owners would have a reason to use us instead. That means more electricity saved and a bigger impact for us. It also means more revenue so we can make a bigger donation to the different causes we want to support.</p><p>Hopefully, by the end of this year, we will have 10,000 plus dollars that we will put into a few causes that we believe in. One of our next steps will be to sit down and research the different projects that we like and want to donate to—maybe $1,000 each to 10 different projects. That&#8217;s exciting for us.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-55f1bf14 elementor-widget elementor-widget-text-editor" data-id="55f1bf14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>Parting thoughts from Marko</h2><h3><strong>Good inspiration</strong></h3><blockquote><p>“I find it very inspirational what a single person or a single idea can do and what kind of difference it can make, over a long run.”</p></blockquote><ul><li><a href="https://twitter.com/GretaThunberg">Greta Thunberg</a></li><li><a href="https://twitter.com/BoyanSlat">Boyan Slat</a>, founder of <a href="https://theoceancleanup.com/">The Ocean Cleanup</a></li><li><a href="https://www.patagonia.com/home/">Patagonia</a></li></ul><h3><strong>Good tools and resources</strong></h3><ul><li><a href="https://plausible.io/">Plausible Analytics</a> 😉</li><li><a href="https://www.goodreads.com/book/show/6732019-rework">Rework</a></li><li><a href="https://www.goodreads.com/book/show/40549476-this-is-marketing">This is Marketing</a></li></ul><h3><strong>Good advice</strong></h3><blockquote><p>“It&#8217;s a benefit these days for founders to have something they believe in and to be about more than just profit. If you believe in something or have a strong opinion, take a stand and be upfront and honest about it.”</p></blockquote><blockquote><p>“There&#8217;s always somebody that&#8217;s going to be sharing something online that looks better than what you&#8217;ve achieved. But that’s something you can’t control so don’t let it affect you. Stay focused on your own project and run your own race.”</p></blockquote></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4f9a42f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f9a42f4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f60e551" data-id="5f60e551" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b80c654 elementor-widget elementor-widget-spacer" data-id="b80c654" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-40b0a7bc elementor-share-buttons--skin-flat elementor-share-buttons--align-center elementor-share-buttons--view-icon-text elementor-share-buttons--shape-square elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="40b0a7bc" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_facebook">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook"
+								   aria-hidden="true"></i>
+								<span
+									class="elementor-screen-only">Share on facebook</span>
+							</span>
+																						<div class="elementor-share-btn__text">
+																			<span class="elementor-share-btn__title">
+										Facebook									</span>
+																	</div>
+													</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_twitter">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter"
+								   aria-hidden="true"></i>
+								<span
+									class="elementor-screen-only">Share on twitter</span>
+							</span>
+																						<div class="elementor-share-btn__text">
+																			<span class="elementor-share-btn__title">
+										Twitter									</span>
+																	</div>
+													</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_linkedin">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-linkedin"
+								   aria-hidden="true"></i>
+								<span
+									class="elementor-screen-only">Share on linkedin</span>
+							</span>
+																						<div class="elementor-share-btn__text">
+																			<span class="elementor-share-btn__title">
+										LinkedIn									</span>
+																	</div>
+													</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_email">
+															<span class="elementor-share-btn__icon">
+								<i class="fas fa-envelope"
+								   aria-hidden="true"></i>
+								<span
+									class="elementor-screen-only">Share on email</span>
+							</span>
+																						<div class="elementor-share-btn__text">
+																			<span class="elementor-share-btn__title">
+										Email									</span>
+																	</div>
+													</div>
+					</div>
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-67ea1af elementor-widget elementor-widget-spacer" data-id="67ea1af" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6eb7ffa4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6eb7ffa4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79f0d58d" data-id="79f0d58d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7eefbfe elementor-widget elementor-widget-heading" data-id="7eefbfe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Build a better business</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b056bd5 elementor-widget elementor-widget-heading" data-id="b056bd5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Better for the environment, better for people 
+and—yup—better for your pocket.</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d53de4a elementor-widget elementor-widget-text-editor" data-id="d53de4a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Every week, I put together a collection of practical and thought-provoking resources designed to help us grow our impact as small and solo business owners. </p><p>Interested? Subscribe here to get it in your inbox every Tuesday:</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a489ad elementor-widget elementor-widget-html" data-id="2a489ad" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/formEmbed.css">
+
+<div class="email-octopus-form-wrapper">
+    <h2 class="email-octopus-heading"></h2>
+    <p class="email-octopus-success-message"></p>
+    <p class="email-octopus-error-message"></p>
+
+    <form method="post"
+      action="https://emailoctopus.com/lists/abce8291-cddc-11ea-a3d0-06b4694bee2a/members/embedded/1.3s/add"
+      class="email-octopus-form"
+      data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
+    >
+        
+        <div class="email-octopus-form-row">
+          
+            <input id="field_0" name="field_0" type="email" placeholder="Enter your email address">
+        </div>
+
+
+        
+
+        <div class="email-octopus-form-row-hp" aria-hidden="true">
+            <!-- Do not remove this field, otherwise you risk bot sign-ups -->
+            <input type="text" name="hpabce8291-cddc-11ea-a3d0-06b4694bee2a"
+               tabindex="-1"
+               autocomplete="nope">
+        </div>
+
+        <div>
+            <input type="hidden"
+               name="successRedirectUrl"
+               value="https://inthegood.co/almostdone">
+            <button  type="submit">Subscribe</button>
+        </div>
+    </form>
+
+    
+</div>
+
+<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.5/recaptcha.js"></script>
+<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.5/formEmbed.js"></script>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+	</div>
+</div>
+
+
+<div class="site-footer">
+			<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					Thanks for reading :)				</div>
+			</div>
+		</footer>
+		</div>
+
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://inthegood.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1' media='all' />
+<!--[if lte IE 11]>
+<script src='https://inthegood.co/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.0.3' id='generate-classlist-js'></script>
+<![endif]-->
+<script id='generate-main-js-extra'>
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script src='https://inthegood.co/wp-content/themes/generatepress/assets/js/main.min.js?ver=3.0.3' id='generate-main-js'></script>
+<script src='https://inthegood.co/wp-includes/js/wp-embed.min.js?ver=5.7' id='wp-embed-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.1' id='elementor-pro-webpack-runtime-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.1.4' id='elementor-webpack-runtime-js'></script>
+<script src='https://inthegood.co/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='https://inthegood.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.1.4' id='elementor-frontend-modules-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.1' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/inthegood.co\/wp-admin\/admin-ajax.php","nonce":"6519d3e53d","urls":{"assets":"https:\/\/inthegood.co\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/inthegood.co\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://inthegood.co/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.1' id='elementor-pro-frontend-js'></script>
+<script src='https://inthegood.co/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.1.4' id='share-link-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false,"isImprovedAssetsLoading":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.1.4","is_static":false,"experimentalFeatures":{"form-submissions":true},"urls":{"assets":"https:\/\/inthegood.co\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":514,"title":"Taking%20on%20Google%20%E2%80%93%20In%20the%20Good%20","excerpt":"","featuredImage":"https:\/\/inthegood.co\/wp-content\/uploads\/2021\/03\/markosaric-e1617081671514.png"}};
+</script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.4' id='elementor-frontend-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.1' id='pro-preloaded-elements-handlers-js'></script>
+<script src='https://inthegood.co/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.4' id='preloaded-elements-handlers-js'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.903 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2021-03-31 16:54:00 -->
+
+<!-- super cache -->
